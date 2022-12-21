@@ -1,6 +1,6 @@
 # Priority List
 
-This app was built by me for a fellowship
+This app was built by me for a fellowship program
 
 In this step I implemented a command-line (CLI) program that lets you manage your tasks.
 
